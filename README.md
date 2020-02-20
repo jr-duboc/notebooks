@@ -7,7 +7,7 @@ These are the notes I write about various things:
     - Web analytics: Google Analytics, tagging and marketing
     - Databases: SQL and noSQL
 - [Maths and Computer Science](../../tree/master/Maths%20and%20Computer%20Science):
-    - [Algorithms](../../tree/Maths%20and%20Computer%20Science/Algorithms)
+    - [Algorithms](../../tree/Algorithms)
     - Calculus
     - Linear Algebra
     - Statistics
@@ -27,7 +27,7 @@ Voilà mes notes concernant des sujets variés:
     - Analyse de données web: Google Analytics, tags et marketing
     - Bases de données: SQL et noSQL
 - [Maths et Sciences informatique](../../tree/master/Maths%20and%20Computer%20Science):    
-    - [Algorithmes](../../tree/Maths%20and%20Computer%20Science/Algorithms)
+    - [Algorithmes](../../tree/Algorithms)
     - Analyse mathématique
     - Statistiques
     - Intelligence artificielle, apprentissage machine
