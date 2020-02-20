@@ -1,4 +1,4 @@
-# My notes on Everything
+# My notes on everything
 
 These are the notes I write about various things:
 
@@ -6,7 +6,7 @@ These are the notes I write about various things:
     - Web development
     - Web analytics: Google Analytics, tagging and marketing
     - Databases: SQL and noSQL
-- Maths and Computer Science:
+- [Maths and Computer Science](./tree/Maths%20and%20Computer%20Science):
     - Algorithms
     - Calculus
     - Linear Algebra
