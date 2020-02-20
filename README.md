@@ -6,7 +6,7 @@ These are the notes I write about various things:
     - Web development
     - Web analytics: Google Analytics, tagging and marketing
     - Databases: SQL and noSQL
-- [Maths and Computer Science](../tree/master/Maths%20and%20Computer%20Science):
+- [Maths and Computer Science](tree/master/Maths%20and%20Computer%20Science):
     - Algorithms
     - Calculus
     - Linear Algebra
